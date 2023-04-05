@@ -1,7 +1,1 @@
-<a href="https://github.com/wenjie2wang">
-    <img align="center" src="https://github-readme-stats-ffh9.vercel.app/api?username=wenjie2wang&show_icons=true&include_all_commits=true&count_private=true&theme=nord&card_width=500&hide_rank=true&hide_border=true" alt="Wenjie's github stats"/>
-</a>
-<br/>
-<a href="https://github.com/wenjie2wang">
-    <img align="center" src="https://github-readme-stats-ffh9.vercel.app/api/top-langs/?username=wenjie2wang&layout=compact&theme=nord&card_width=450&langs_count=8&hide_border=true"/>
-</a>
+![Metrics](https://metrics.lecoq.io/wenjie2wang?template=classic&languages=1&followup=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=html%2C%20css&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=America%2FIndianapolis)
